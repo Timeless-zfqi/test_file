@@ -1,4 +1,4 @@
-name: base
+name: tf15
 channels:
   - https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
   - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
